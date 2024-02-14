@@ -42,6 +42,14 @@
 </template>
 
 <style>
+button{
+  background-color: rgb(191, 28, 28);
+  color: white;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  margin: 5px;
+  border-radius: 10px;
+}
 section {
   width: 90%;
   max-width: 40rem;
